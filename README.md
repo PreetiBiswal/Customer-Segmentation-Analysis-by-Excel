@@ -1,4 +1,6 @@
 # Customer Segmentation Analysis
+![image](https://github.com/user-attachments/assets/61806f1e-51da-46d1-8cc1-3997d7402ff5)
+
  📌 Objective
 Segment customers based on purchasing behavior to identify high-value customers, understand retention rates and recognize customer preferences.
 
@@ -45,6 +47,7 @@ Enhance user interaction by adding the following slicers:
 ✔ Region  
 ✔ Customer Type (New, Returning, Loyal)  
 ✔ Age Group  
+✔ Gender
 ✔ Purchase Frequency (Low, Medium, High)  
 
  🚀 How to Use This Analysis
